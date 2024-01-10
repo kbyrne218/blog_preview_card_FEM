@@ -27,6 +27,12 @@ body {
     
 }
 
+h2:hover,
+h2:active {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 button {
     background: hsl(47, 88%, 63%);
     font-weight: bold;
